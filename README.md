@@ -39,7 +39,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/6285701863281)
+* Info Lebih Lanjut, Chat [owner-zenn](https://wa.me/6285701863281)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
